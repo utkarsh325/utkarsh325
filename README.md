@@ -1,3 +1,4 @@
+![logo](https://github.com/utkarsh325/utkarsh325/blob/main/Black%20and%20Yellow%20Web%20Developer%20LinkedIn%20Banner%20(1).png)
 <h1 align="center">Hi 👋, I'm Utkarsh Gupta</h1>
 <h3 align="center">First-year BTech CSIT student passionate about learning and building things</h3>
 <img align="right"alt="coding" width="300"src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3JqMXB2Zmg1aGEzdnBjcmx3bXE3NmlnMm1pcHhrZTlpdXplamFhMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif">
